@@ -1,0 +1,66 @@
+
+@import 'https://fonts.googleapis.com/css?family=Architects+Daughter|Press+Start+2P';
+
+/*
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Permanent Marker', cursive;
+http://orig07.deviantart.net/038a/f/2011/047/5/3/anime_background_by_akatsuka_d_suna-d39nu7v.png
+
+*/
+
+
+body{
+
+}
+
+header{
+    margin-top:25px; 
+    text-align: center; 
+    font-family: 'Press Start 2P', cursive; 
+    font-size:2em; 
+}
+
+header img{
+    width:150px;
+  
+}
+
+
+.questions img{
+    width:250px; 
+    height:200px; 
+    margin-bottom:50px; 
+}
+
+#timer{
+   width:300px; 
+   text-align: center; 
+   margin:25px auto;  
+    
+}
+
+.answer{
+    margin: 10px auto;
+    cursor:pointer;
+    width:300px; 
+    height:50px; 
+    padding:5px; 
+}
+
+#game{
+    margin:15px auto; 
+    text-align: center; 
+    background-color:#fff; 
+    width:75%; 
+    height:700px;
+    font-family: 'Architects Daughter', cursive;
+    font-size:1.5em; 
+    
+}
+
+.results{
+    width:100%; 
+    height:100%; 
+    display: none; 
+       
+}
