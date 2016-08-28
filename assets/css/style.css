@@ -26,6 +26,8 @@ header img{
 }
 
 
+
+
 .questions img{
     width:300px; 
     height:200px; 
@@ -79,12 +81,21 @@ header img{
         width:100%; 
     }
     
-    .game-elements{
-         font-size:1.5em
-    }
-    
     .results{
         font-size:2em; 
+    }
+    
+    h1{
+        font-size:1em; 
+    }
+    
+    .answer{
+        font-size:1.3em;
+    }
+    
+    #timer{
+        margin:10px auto; 
+        
     }
 }
 
