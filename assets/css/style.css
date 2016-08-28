@@ -83,6 +83,11 @@ header img{
         
     }
     
+    #questions-remaining{
+        font-size:1em;
+        width:100%; 
+    }
+    
     h1{
         font-size:1em; 
     }
@@ -93,7 +98,8 @@ header img{
     }
     
     #timer{
-        margin-top:10px; 
+        margin-top:10px;
+        width:100%; 
     }
     
     header{
